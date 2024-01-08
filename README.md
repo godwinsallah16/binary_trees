@@ -258,18 +258,9 @@ Function Prototypes
 
 ## Authors
 <details>
-    <summary>Suara Ayomide</summary>
+    <summary>Sallah Godwin</summary>
     <ul>
-    <li><a href="https://www.github.com/aysuarex">Github</a></li>
-    <li><a href="https://www.twitter.com/Aysuarex">Twitter</a></li>
-    <li><a href="mailto:aysuarex@gmail.com">e-mail</a></li>
-    </ul>
-</details>
-<details>
-    <summary>--- Chioma</summary>
-    <ul>
-    <li><a href="https://www.github.com/chioma2000">Github</a></li>
-    <li><a href="https://www.twitter.com/---chioma">Twitter</a></li>
-    <li><a href="mailto:---chioma---@gmail.com">e-mail</a></li>
+    <li><a href="https://www.github.com/godwinsallah16x">Github</a></li>
+    <li><a href="mailto:godwinsallah16@gmail.com">e-mail</a></li>
     </ul>
 </details>
